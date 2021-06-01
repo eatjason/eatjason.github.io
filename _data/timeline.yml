@@ -17,45 +17,152 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: Retroprose
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: 2020 - Present
+  subtitle: Business Owner
   tags:
-    - tag: React
-    - tag: Javascript
+    - tag: Jekyll
+    - tag: HTML
+    - tag: CSS
+    - tag: Unity
+    - tag: GoLang
+    - tag: Heroku
     - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: JavaScript
   timeline-side: left
 
-- title: Facebook
+- title: Saagara
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  date: 2019 - 2020
+  subtitle: Software Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: C++
+    - tag: JavaScript
+    - tag: Amazon Cloud
+    - tag: Azure
+    - tag: Google Cloud
   timeline-side: right
 
-- title: Super University
+- title: Retroprose
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: 2018 - 2019
+  subtitle: Business Owner, Freelancer for small game company
+  tags:
+    - tag: Unity
+    - tag: GoLang
+    - tag: Heroku
+    - tag: Crystal
+    - tag: JavaScript
+  timeline-side: left
+
+- title: Saagara
+  title-url: https://example.com/
+  date: 2016 - 2018
+  subtitle: Software Engineer
+  tags:
+    - tag: C++
+    - tag: JavaScript
+    - tag: Swift
+    - tag: Objective C
+    - tag: C
+    - tag: CSS
+    - tag: C#
+    - tag: Java
+    - tag: More
+    - tag: Azure
+  timeline-side: right
+
+- title: Chameleon Power
+  title-url: https://example.com/
+  date: 2015 - 2016
+  subtitle: Software Engineer
+  tags:
+    - tag: C++
+    - tag: Unity
+    - tag: C#
+    - tag: JavaScript
+    - tag: SQL
+    - tag: Android
+    - tag: iPhone
+    - tag: 3d Studio Max
+  timeline-side: right
+
+- title: Oakland Community College Aurburn Hill Campus
+  title-url: https://example.com/
+  date: 2015 - 2015
+  subtitle: Adjucnt Professor, taught semester of Java
+  tags:
+    - tag: Java
+  timeline-side: left
+
+- title: University of Michigan Physics Department
+  title-url: https://example.com/
+  date: 2013 - 2015
+  subtitle: Software Engineer for Direct Brain Interface research
+  tags:
+    - tag: C++
+    - tag: Blender
+    - tag: CodeX
+    - tag: Simple DirectMedia Layer (SDL)
+  timeline-side: right
+
+- title: University of Michigan Hospital
+  title-url: https://example.com/
+  date: 2009 - 2011
+  subtitle: Software Engineer for Direct Brain Interface research
+  tags:
+    - tag: C++
+    - tag: OpenGL
+    - tag: Visual Studio
+    - tag: Borland Compiler
+  timeline-side: right
+
+- title: University of Michigan - Dearborn
+  title-url: https://example.com/
+  date: 2008 - 2013
+  subtitle: Bachelor of Science and Engineering in Computer Science
+  timeline-side: left
+
+- title: Eastern University
+  title-url: https://example.com/
+  date: 2007 - 2008
+  subtitle: Began working on Masters of Computer Science
+  timeline-side: left
+
+- title: Hare Krishna Ashram
+  title-url: https://example.com/
+  date: 2006 - 2007
+  subtitle: Did service around the temple, aided in development of website.
+  tags:
+    - tag: HTML
+    - tag: CSS
+    - tag: Php
+    - tag: SQL
+    - tag: JavaScript
+    - tag: Drupal
+  timeline-side: right
+
+- title: University of Michigan - Ann Arbor
+  title-url: https://example.com/
+  date: 2005 - 2006
+  subtitle: Bachelor of Science and Engineering in Computer Science
+  timeline-side: left
+
+- title: Larouche Political Action Commitee
+  title-url: https://example.com/
+  date: 2004 - 2005
+  subtitle: Participated in political action durring 2004 United States Election with Schiller Institute
+  timeline-side: right
+
+- title: University of Michigan - Ann Arbor
+  title-url: https://example.com/
+  date: 2001 - 2004
+  subtitle: Working on Bachelors of Science and Engineering in Computer Science
+  timeline-side: left
+
+- title: Oakland Community College
+  title-url: https://example.com/
+  date: 1999 - 2001
+  subtitle: Working on transfer credits for U of M
   timeline-side: left
