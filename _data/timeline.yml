@@ -88,7 +88,7 @@
     - tag: 3d Studio Max
   timeline-side: right
 
-- title: Oakland Community College Aurburn Hill Campus
+- title: Oakland Community College
   title-url: https://example.com/
   date: 2015 - 2015
   subtitle: Adjucnt Professor, taught semester of Java
@@ -165,4 +165,15 @@
   title-url: https://example.com/
   date: 1999 - 2001
   subtitle: Working on transfer credits for U of M
+  timeline-side: left
+
+- title: Walled Lake Central High School
+  title-url: https://example.com/
+  date: 1995 - 1999
+  subtitle: Taught myself C++ and game programming, was in special computer science class.
+  tags:
+    - tag: QBasic
+    - tag: DirectX
+    - tag: C/C++
+    - tag: Java
   timeline-side: left

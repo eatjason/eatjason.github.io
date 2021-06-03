@@ -1,3 +1,32 @@
+
+{% if site.show_jobs %}
+<h1 class="title"><span>{{site.jobs_title}}</span></h1>
+  <div>
+  {% for experience in site.data.experience %}
+    <div class="project neumorphism-card" data-aos="zoom-in-down">
+      <div class="name-link-wrapper">
+        <h3>{{experience.name}}</h3>
+      </div>
+      <p class="project-desc">{{experience.descr}}</p>
+      {% if experience.demo %}
+        <a class="highlight-link" href="{{experience.demo}}" target="_blank" rel="noreferrer">
+          Demo
+        </a>
+      {% endif %}
+      {% if experience.tags %}
+        <div class="tag-wrapper">
+          {% for tag in experience.tags %}
+            <span class="tag neumorphism-card">{{tag.tag}}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+
+
 {% if site.show_projects %}
   <h1 class="title"><span>{{site.projects_title}}</span></h1>
   <div class="projects-wrapper">
@@ -23,6 +52,35 @@
     {% endfor %}
   </div>
 {% endif %}
+
+
+{% if site.show_presentations %}
+  <h1 class="title"><span>{{site.presentations_title}}</span></h1>
+  <div class="projects-wrapper">
+    {% for presentation in site.data.presentations %}
+      <div class="project neumorphism-card" data-aos="zoom-in-down">
+        <div class="name-link-wrapper">
+          <h3>{{presentation.name}}</h3>
+        </div>
+        <p class="project-desc">{{presentation.descr}}</p>
+        {% if presentation.demo %}
+          <a class="highlight-link" href="{{presentation.demo}}" target="_blank" rel="noreferrer">
+            Demo
+          </a>
+        {% endif %}
+        {% if presentation.tags %}
+          <div class="tag-wrapper">
+            {% for tag in presentation.tags %}
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+
 
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>

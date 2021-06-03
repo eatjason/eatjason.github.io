@@ -66,6 +66,13 @@ show_projects_card: true
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
+
+show_presentations: true
+presentations_title: Presentations
+
+show_jobs: true
+jobs_title: Work Experience
+
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github

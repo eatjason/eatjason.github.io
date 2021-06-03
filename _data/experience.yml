@@ -1,0 +1,94 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Retroprose - Buisness Owner
+  descr: I currently use my own buisness to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.
+  tags:
+    - tag: Jekyll
+    - tag: HTML
+    - tag: CSS
+    - tag: Unity
+    - tag: Heroku
+    - tag: Ruby
+    - tag: JavaScript
+    - tag: GoLang
+    - tag: Crystal
+    - tag: Node
+
+- name: TRUIC
+  descr: <ul><li>Ported Azure web application to many cloud infrasturtures in case of Azure failure</li><li>Lead architecture and design of logo generation web application</li><li>Helped design architecture for in house CMS system</li><li>Mentored junior employees in various fields of computer science</li></ul><a class="highlight-link" href="https://howtostartanllc.com/logo-maker" target="_blank" rel="noreferrer">Link to Logo Generator</a>
+  tags:
+    - tag: Azure
+    - tag: Google Cloud
+    - tag: Amazon Cloud Services
+    - tag: C#
+    - tag: ASP.NET
+    - tag: JavaScript
+    - tag: CSS
+    - tag: HTML5
+    - tag: Azure Cosmos
+    - tag: SQL
+
+- name: Saagara
+  descr: <ul><li>Maintained mobile apps across most devices and frameworks</li><li>Implemented Relax app on mac, apple tv, and ios mobile</li><li></li></ul><a class="highlight-link" href="https://apps.apple.com/us/app/relax-stress-and-anxiety-relief/id408784780" target="_blank" rel="noreferrer">Link to shipped app</a>
+  tags:
+    - tag: Azure
+    - tag: C#
+    - tag: ASP.NET
+    - tag: JavaScript
+    - tag: CSS
+    - tag: HTML
+    - tag: Objective C
+    - tag: C/C++
+    - tag: Swift
+    - tag: Java
+    - tag: Unity
+    - tag: Android
+    - tag: iPhone
+    - tag: SQL
+
+- name: Chameleon Power
+  descr: <ul><li>Trouble shot unity applications across devices</li><li>Designed and dedebugged C# code in unity applications</li><li>Wrote graphical algorithms such as flood fills and computational geometry</li></ul>
+  tags:
+    - tag: C++
+    - tag: Unity
+    - tag: C#
+    - tag: JavaScript
+    - tag: SQL
+    - tag: Unity
+    - tag: Android
+    - tag: iPhone
+    - tag: 3d Studio Max
+
+- name: Java Adjuct Instructor for Oakland Community College
+  descr: <ul><li>Developed and designed lesson plans and tests for students</li><li>Gave lecutres based on course material</li><li>Ran labs and aided students in setting up thier work stations and personal computers</li></ul>
+  tags:
+    - tag: Java
+ 
+- name: University of Michigan Physics Department
+  descr: <ul><li>Researched various technologies for visualizations</li><li>Helped design equations for visualization parameters</li><li>Engineered and implemented solutions with OpenGL</li></ul><a class="highlight-link" href="https://stamps.umich.edu/news/jeweled-net-of-the-vast-invisible-concert-and-opening-reception-may-12" target="_blank" rel="noreferrer">Videos of final product</a>
+  tags:
+    - tag: C++
+    - tag: Blender
+    - tag: CodeX
+    - tag: Simple DirectMedia Layer (SDL)
+
+- name: University of Michigan Hospital
+  descr: <ul><li>Documented BCI 2000 code</li><li>Designed training "games" for direct brain interface</li><li>Extended BCI environment for drawing sprites and programming "games"</li></ul><a class="highlight-link" href="http://jeaton.matero.net/bci2000.html" target="_blank" rel="noreferrer">Link to more info</a>
+  tags:
+    - tag: C++
+    - tag: OpenGL
+    - tag: Visual Studio
+    - tag: Borland Compiler
