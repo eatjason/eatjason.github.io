@@ -47,11 +47,35 @@
         {% include section-timeline.html %}
       </section>
     {% endif %}
-    {%if site.show_projects_card %}
+
+    <section class="card neumorphism-card-big">
+      {% include section-real_projects.html %}
+    </section>
+  
+    {%if site.show_jobs %}
+    <section class="card neumorphism-card-big">
+      {% include section-jobs.html %}
+    </section>
+    {% endif %}
+
+    {%if site.show_education %}
       <section class="card neumorphism-card-big">
-        {% include section-projects.html %}
+        {% include section-education.html %}
       </section>
     {% endif %}
+
+    {%if site.show_presentations %}
+      <section class="card neumorphism-card-big">
+        {% include section-presentations.html %}
+      </section>
+    {% endif %}
+
+    {%if site.show_projects_card %}
+    <section class="card neumorphism-card-big">
+      {% include section-projects.html %}
+    </section>
+    {% endif %}
+
 
     {%if site.show_activity_card %}
     <section class="card neumorphism-card-big">
