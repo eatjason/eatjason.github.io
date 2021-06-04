@@ -1,0 +1,9 @@
+<h1 class="title">{{site.activity_title}}</h1>
+
+<div id="activities" style="align-items: center; display: flex; flex-wrap: wrap; justify-content: center;">
+  {% for activity in site.data.activities %}
+    <div skill-type="language" data-aos="zoom-in" style="padding: 0.6rem; transition: opacity 0.5s; font-size: 1.25rem; line-height: 0.75rem;">
+      {{activity.name}}
+    </div>
+  {% endfor %}
+ </div>

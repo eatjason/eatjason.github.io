@@ -44,6 +44,9 @@ show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
+show_activity_card: true
+activity_title: Activities
+
 # TIMELINE SECTION
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
@@ -65,13 +68,16 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Awards
 
 show_presentations: true
 presentations_title: Presentations
 
 show_jobs: true
 jobs_title: Work Experience
+
+show_education: true
+education_title: Education
 
 # show_os_projects:
 # > setting this to true, will display your public projects on github

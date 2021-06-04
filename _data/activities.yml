@@ -1,0 +1,26 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Git
+
+- name: Bash
+
+- name: Scrum
+
+- name: Travis CI
+
+- name: Jenkins
+
+- name: Chrome DevTools
+
+- name: npm
+
+- name: gulp
+
+- name: VS Code
+
+- name: Postman
