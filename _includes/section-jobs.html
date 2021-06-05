@@ -4,7 +4,7 @@
   {% for experience in site.data.experience %}
     <div class="project neumorphism-card" data-aos="zoom-in-down">
       <div class="name-link-wrapper">
-        <h3>{{experience.name}}</h3>
+        <h3 id="{{experience.jumpid}}">{{experience.name}}</h3>
       </div>
       <p class="project-desc">{{experience.descr}}</p>
       {% if experience.demo %}

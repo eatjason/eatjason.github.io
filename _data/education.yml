@@ -13,10 +13,33 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: RTHINGS
-  descr: I currently use my own buisness to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.
+- name: University of Michigan - Dearborn
+  descr: Masters in Computer Information Systems
   tags:
-    - tag: Jekyll
-    - tag: HTML
-    - tag: CSS
-    - tag: Unity
+    - tag: Programming Languages
+    - tag: Operating Systems
+    - tag: Networking
+    - tag: Compiler Design
+    - tag: Computer Animation
+    - tag: Design Patterns
+    - tag: Algorithm Design and Analysis
+
+- name: University of Michigan - Ann Arbor
+  descr: Bachelor of Science and Engineering in Computer Science
+  tags:
+    - tag: Advanced Programming in C++
+    - tag: Discrete Mathematics
+    - tag: Intro to Computer Architecture
+    - tag: Matrix Algebra I
+    - tag: Statics & Dynamics
+    - tag: Intro to Logic and Design
+    - tag: Computer Game Design
+    - tag: Major Design Projects
+
+- name: Oakland Community College
+  descr: Worked on credits to transfer to University of Michigan
+  tags:
+    - tag: Structured Programming I & II
+    - tag: Engineering Physics I & II
+    - tag: Calculus I - III
+    

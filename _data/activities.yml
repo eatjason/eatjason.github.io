@@ -6,21 +6,12 @@
 #   weight: 5
 
 - name: Git
-
 - name: Bash
-
 - name: Scrum
-
 - name: Travis CI
-
 - name: Jenkins
-
 - name: Chrome DevTools
-
 - name: npm
-
 - name: gulp
-
 - name: VS Code
-
 - name: Postman

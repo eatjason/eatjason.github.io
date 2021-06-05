@@ -18,129 +18,67 @@
 #   timeline-side: right
 
 - title: Retroprose
-  title-url: https://example.com/
+  title-url: retroprose
   date: 2020 - Present
   subtitle: Business Owner
-  tags:
-    - tag: Jekyll
-    - tag: HTML
-    - tag: CSS
-    - tag: Unity
-    - tag: GoLang
-    - tag: Heroku
-    - tag: Ruby
-    - tag: JavaScript
   timeline-side: left
 
-- title: Saagara
-  title-url: https://example.com/
+- title: Truic
+  title-url: truic
   date: 2019 - 2020
   subtitle: Software Engineer
-  tags:
-    - tag: C++
-    - tag: JavaScript
-    - tag: Amazon Cloud
-    - tag: Azure
-    - tag: Google Cloud
   timeline-side: right
 
 - title: Retroprose
-  title-url: https://example.com/
+  title-url: retroprose
   date: 2018 - 2019
-  subtitle: Business Owner, Freelancer for small game company
-  tags:
-    - tag: Unity
-    - tag: GoLang
-    - tag: Heroku
-    - tag: Crystal
-    - tag: JavaScript
+  subtitle: Business Owner
   timeline-side: left
 
 - title: Saagara
-  title-url: https://example.com/
+  title-url: saagara
   date: 2016 - 2018
   subtitle: Software Engineer
-  tags:
-    - tag: C++
-    - tag: JavaScript
-    - tag: Swift
-    - tag: Objective C
-    - tag: C
-    - tag: CSS
-    - tag: C#
-    - tag: Java
-    - tag: More
-    - tag: Azure
   timeline-side: right
 
 - title: Chameleon Power
-  title-url: https://example.com/
+  title-url: cpower
   date: 2015 - 2016
   subtitle: Software Engineer
-  tags:
-    - tag: C++
-    - tag: Unity
-    - tag: C#
-    - tag: JavaScript
-    - tag: SQL
-    - tag: Android
-    - tag: iPhone
-    - tag: 3d Studio Max
   timeline-side: right
 
 - title: Oakland Community College
-  title-url: https://example.com/
+  title-url: javainstruct
   date: 2015 - 2015
-  subtitle: Adjucnt Professor, taught semester of Java
-  tags:
-    - tag: Java
+  subtitle: Adjunct Instructor
   timeline-side: left
 
 - title: University of Michigan Physics Department
-  title-url: https://example.com/
+  title-url: uofm_physics
   date: 2013 - 2015
-  subtitle: Software Engineer for Direct Brain Interface research
-  tags:
-    - tag: C++
-    - tag: Blender
-    - tag: CodeX
-    - tag: Simple DirectMedia Layer (SDL)
+  subtitle: Software Engineer for Dark Matter Visualization
   timeline-side: right
 
 - title: University of Michigan Hospital
-  title-url: https://example.com/
+  title-url: uofm_hospital
   date: 2009 - 2011
   subtitle: Software Engineer for Direct Brain Interface research
-  tags:
-    - tag: C++
-    - tag: OpenGL
-    - tag: Visual Studio
-    - tag: Borland Compiler
   timeline-side: right
 
 - title: University of Michigan - Dearborn
   title-url: https://example.com/
   date: 2008 - 2013
-  subtitle: Bachelor of Science and Engineering in Computer Science
+  subtitle: Masters in Computer Information Systems
   timeline-side: left
 
 - title: Eastern University
-  title-url: https://example.com/
   date: 2007 - 2008
   subtitle: Began working on Masters of Computer Science
   timeline-side: left
 
 - title: Hare Krishna Ashram
-  title-url: https://example.com/
   date: 2006 - 2007
   subtitle: Did service around the temple, aided in development of website.
-  tags:
-    - tag: HTML
-    - tag: CSS
-    - tag: Php
-    - tag: SQL
-    - tag: JavaScript
-    - tag: Drupal
   timeline-side: right
 
 - title: University of Michigan - Ann Arbor
@@ -150,9 +88,8 @@
   timeline-side: left
 
 - title: Larouche Political Action Commitee
-  title-url: https://example.com/
   date: 2004 - 2005
-  subtitle: Participated in political action durring 2004 United States Election with Schiller Institute
+  subtitle: Studied alternative economic models to America's mainstream education
   timeline-side: right
 
 - title: University of Michigan - Ann Arbor
@@ -165,15 +102,4 @@
   title-url: https://example.com/
   date: 1999 - 2001
   subtitle: Working on transfer credits for U of M
-  timeline-side: left
-
-- title: Walled Lake Central High School
-  title-url: https://example.com/
-  date: 1995 - 1999
-  subtitle: Taught myself C++ and game programming, was in special computer science class.
-  tags:
-    - tag: QBasic
-    - tag: DirectX
-    - tag: C/C++
-    - tag: Java
   timeline-side: left

@@ -11,10 +11,11 @@
 #     - tag: MongoDB
 #     - tag: Express
 #     - tag: AngularJS
-#     - tag: Node
+#     - tag: Node  
 
-- name: Retroprose - Buisness Owner
-  descr: I currently use my own buisness to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.
+- name: Retroprose - Business Owner
+  jumpid: retroprose
+  descr: <p>I currently use my own business to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.</p><a class="highlight-link" href="http://jeaton.matero.net/misc/galactic_marauders_demo/" target="_blank" rel="noreferrer">Example Demo</a>
   tags:
     - tag: Jekyll
     - tag: HTML
@@ -26,9 +27,14 @@
     - tag: GoLang
     - tag: Crystal
     - tag: Node
+    - tag: Elixir
+    - tag: Phoenix
+    - tag: Erlang
+    - tag: Unreal
 
 - name: TRUIC
-  descr: <ul><li>Ported Azure web application to many cloud infrasturtures in case of Azure failure</li><li>Lead architecture and design of logo generation web application</li><li>Helped design architecture for in house CMS system</li><li>Mentored junior employees in various fields of computer science</li></ul><a class="highlight-link" href="https://howtostartanllc.com/logo-maker" target="_blank" rel="noreferrer">Link to Logo Generator</a>
+  jumpid: truic
+  descr: <ul><li>Ported Azure web application to many cloud infrastructures in case of Azure failure</li><li>Lead architecture and design of logo generation web application</li><li>Helped design architecture for in house CMS system</li></ul><a class="highlight-link" href="https://howtostartanllc.com/logo-maker" target="_blank" rel="noreferrer">Link to Logo Generator</a>
   tags:
     - tag: Azure
     - tag: Google Cloud
@@ -42,7 +48,8 @@
     - tag: SQL
 
 - name: Saagara
-  descr: <ul><li>Maintained mobile apps across most devices and frameworks</li><li>Implemented Relax app on mac, apple tv, and ios mobile</li><li></li></ul><a class="highlight-link" href="https://apps.apple.com/us/app/relax-stress-and-anxiety-relief/id408784780" target="_blank" rel="noreferrer">Link to shipped app</a>
+  jumpid: saagara
+  descr: <ul><li>Maintained mobile apps across most devices and frameworks</li><li>Implemented Relax app on mac, apple tv, and ios mobile</li><li>Mentored junior employees in various fields of computer science</li></ul><a class="highlight-link" href="https://apps.apple.com/us/app/relax-stress-and-anxiety-relief/id408784780" target="_blank" rel="noreferrer">Link to shipped app</a>
   tags:
     - tag: Azure
     - tag: C#
@@ -56,11 +63,13 @@
     - tag: Java
     - tag: Unity
     - tag: Android
-    - tag: iPhone
+    - tag: iOS
     - tag: SQL
+    - tag: XCode
 
 - name: Chameleon Power
-  descr: <ul><li>Trouble shot unity applications across devices</li><li>Designed and dedebugged C# code in unity applications</li><li>Wrote graphical algorithms such as flood fills and computational geometry</li></ul>
+  jumpid: cpower
+  descr: <ul><li>Trouble shot unity applications across devices</li><li>Designed and debugged C# code in unity applications</li><li>Wrote graphical algorithms such as flood fills and computational geometry</li></ul>
   tags:
     - tag: C++
     - tag: Unity
@@ -69,23 +78,30 @@
     - tag: SQL
     - tag: Unity
     - tag: Android
-    - tag: iPhone
+    - tag: iOS
     - tag: 3d Studio Max
+    - tag: XCode
 
-- name: Java Adjuct Instructor for Oakland Community College
-  descr: <ul><li>Developed and designed lesson plans and tests for students</li><li>Gave lecutres based on course material</li><li>Ran labs and aided students in setting up thier work stations and personal computers</li></ul>
+- name: Java Adjunct Instructor for Oakland Community College
+  jumpid: javainstruct
+  descr: <ul><li>Developed and designed lesson plans and tests for students</li><li>Gave lectures based on course material</li><li>Ran labs and aided students in setting up their work stations and personal computers</li></ul>
   tags:
     - tag: Java
  
 - name: University of Michigan Physics Department
+  jumpid: uofm_physics
   descr: <ul><li>Researched various technologies for visualizations</li><li>Helped design equations for visualization parameters</li><li>Engineered and implemented solutions with OpenGL</li></ul><a class="highlight-link" href="https://stamps.umich.edu/news/jeweled-net-of-the-vast-invisible-concert-and-opening-reception-may-12" target="_blank" rel="noreferrer">Videos of final product</a>
   tags:
     - tag: C++
     - tag: Blender
     - tag: CodeX
     - tag: Simple DirectMedia Layer (SDL)
+    - tag: XCode
+    - tag: OpenGL
+    - tag: Unity
 
 - name: University of Michigan Hospital
+  jumpid: uofm_hospital
   descr: <ul><li>Documented BCI 2000 code</li><li>Designed training "games" for direct brain interface</li><li>Extended BCI environment for drawing sprites and programming "games"</li></ul><a class="highlight-link" href="http://jeaton.matero.net/bci2000.html" target="_blank" rel="noreferrer">Link to more info</a>
   tags:
     - tag: C++
