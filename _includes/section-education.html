@@ -2,9 +2,9 @@
 <h1 class="title"><span>{{site.education_title}}</span></h1>
   <div>
   {% for experience in site.data.education %}
-    <div class="project neumorphism-card" data-aos="zoom-in-down">
+    <div id="{{experience.jumpid}}" class="project neumorphism-card" data-aos="zoom-in-down">
       <div class="name-link-wrapper">
-        <h3 id="{{experience.jumpid}}">{{experience.name}}</h3>
+        <h3>{{experience.name}}</h3>
       </div>
       <p class="project-desc">{{experience.descr}}</p>
       {% if experience.demo %}

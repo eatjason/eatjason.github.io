@@ -8,6 +8,9 @@
 - name: Unity
   weight: 4
 
+- name: JQuery
+  weight: 3
+
 - name: OpenGL
   weight: 3
 
