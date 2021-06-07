@@ -5,13 +5,14 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-- name: Bash
-- name: Scrum
-- name: Travis CI
-- name: Jenkins
-- name: Chrome DevTools
-- name: npm
-- name: gulp
-- name: VS Code
-- name: Postman
+- name: WolverineSoft
+- name: IGDA
+- name: Tai Chi
+- name: Yoga
+- name: Ninjutsu
+- name: Wing Chun
+- name: BJJ
+- name: HEMA
+- name: ISKCON
+- name: RewildU
+- name: Spiritual Consoling

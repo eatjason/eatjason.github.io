@@ -66,7 +66,7 @@
   timeline-side: right
 
 - title: University of Michigan - Dearborn
-  title-url: https://example.com/
+  title-url: uofm_dearborn
   date: 2008 - 2013
   subtitle: Masters in Computer Information Systems
   timeline-side: left
@@ -82,7 +82,7 @@
   timeline-side: right
 
 - title: University of Michigan - Ann Arbor
-  title-url: https://example.com/
+  title-url: uofm_aa
   date: 2005 - 2006
   subtitle: Bachelor of Science and Engineering in Computer Science
   timeline-side: left
@@ -93,13 +93,13 @@
   timeline-side: right
 
 - title: University of Michigan - Ann Arbor
-  title-url: https://example.com/
+  title-url: uofm_aa
   date: 2001 - 2004
   subtitle: Working on Bachelors of Science and Engineering in Computer Science
   timeline-side: left
 
 - title: Oakland Community College
-  title-url: https://example.com/
+  title-url: occ
   date: 1999 - 2001
   subtitle: Working on transfer credits for U of M
   timeline-side: left

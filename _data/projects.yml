@@ -29,5 +29,6 @@
     - tag: DirectX
 
 - name: University of Michigan - Dearborn Programming Contest
-  descr: Took 3rd Place in 2008
-  demo: assets/files/trophy.jpeg
+  descr: Took 3rd Place in 2008<p><a class="highlight-link" href="assets/files/trophy.jpeg" target="_blank" rel="noreferrer">Trophy</a></p>
+  tags:
+    - tag: C++

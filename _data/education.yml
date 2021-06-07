@@ -14,6 +14,7 @@
 #     - tag: Node
 
 - name: University of Michigan - Dearborn
+  jumpid: uofm_dearborn
   descr: Masters in Computer Information Systems
   tags:
     - tag: Programming Languages
@@ -25,6 +26,7 @@
     - tag: Algorithm Design and Analysis
 
 - name: University of Michigan - Ann Arbor
+  jumpid: uofm_aa
   descr: Bachelor of Science and Engineering in Computer Science
   tags:
     - tag: Advanced Programming in C++
@@ -37,6 +39,7 @@
     - tag: Major Design Projects
 
 - name: Oakland Community College
+  jumpid: occ
   descr: Worked on credits to transfer to University of Michigan
   tags:
     - tag: Structured Programming I & II

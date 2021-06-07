@@ -11,26 +11,65 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
+- name: Visual Studio
+  weight: 4
 
 - name: npm
   weight: 2
 
-- name: gulp
+- name: VS Code
   weight: 4
 
-- name: VS Code
+- name: XCode
   weight: 3
 
-- name: Postman
+- name: Borland Compiler
+  weight: 3
+
+- name: CodeBlocks
   weight: 4
+
+- name: FlashDevelop
+  weight: 3
+
+- name: Adobe Flash
+  weight: 3
+
+- name: SourceTree
+  weight: 4
+
+- name: Amazon Cloud
+  weight: 3
+
+- name: Azure Cloud
+  weight: 4
+
+- name: Google Cloud
+  weight: 3
+
+- name: Heroku
+  weight: 2
+
+- name: Blender
+  weight: 3
+
+- name: 3d Studio Max
+  weight: 2
+
+- name: Google Docs
+  weight: 4
+
+- name: Microsoft Office
+  weight: 3
+
+- name: MacOS
+  weight: 3
+
+- name: Ubuntu
+  weight: 3
+
+- name: Windows
+  weight: 4
+
+- name: Matlab
+  weight: 3

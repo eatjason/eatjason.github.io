@@ -5,29 +5,60 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Unity
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: OpenGL
   weight: 3
 
-- name: Django
-  weight: 1
+- name: DirectX
+  weight: 2
 
-- name: Spring
+- name: Unreal
+  weight: 2
+
+- name: SDL
+  weight: 4
+
+- name: iOS
+  weight: 3
+
+- name: Android
+  weight: 2
+
+- name: Flash
+  weight: 4
+
+- name: Jekyll
+  weight: 3
+
+- name: Silverlight
+  weight: 3
+
+- name: WPF.NET
+  weight: 3
+
+- name: Bootstrap
+  weight: 2
+
+- name: Knockout
+  weight: 3
+
+- name: ASP.NET
+  weight: 4
+
+- name: React
+  weight: 2
+
+- name: Node
   weight: 2
 
 - name: Rails
-  weight: 4
+  weight: 1
+
+- name: Phoenix
+  weight: 2
+
+- name: Azure Cosmos
+  weight: 3
+
