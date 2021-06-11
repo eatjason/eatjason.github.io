@@ -15,7 +15,7 @@
 
 - name: Retroprose - Business Owner
   jumpid: retroprose
-  descr: I currently use my own business to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.<p><a class="highlight-link" href="http://jeaton.matero.net/misc/galactic_marauders_demo/" target="_blank" rel="noreferrer">Example Demo</a></p><p><a class="highlight-link" href="http://retroprose.net" target="_blank" rel="noreferrer">Company Blog</a></p>
+  descr: I currently use my own business to do consulting for people that would like interactive websites, and some real-time cloud based development for local indie game companies.<p><a class="highlight-link" href="http://retroprose.net/files/galactic_marauders_demo/" target="_blank" rel="noreferrer">Example Demo</a></p><p><a class="highlight-link" href="http://retroprose.net" target="_blank" rel="noreferrer">Company Blog</a></p>
   tags:
     - tag: Jekyll
     - tag: HTML
