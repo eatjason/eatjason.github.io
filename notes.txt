@@ -1,0 +1,11 @@
+npm run start   (what did I use this command for?)
+
+npm install     (for when I clone the repo to new place)
+
+npm create astro@latest
+
+npm run dev
+
+npm run build
+
+
