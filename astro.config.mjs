@@ -5,6 +5,5 @@ import { defineConfig } from 'astro/config';
 // export default defineConfig({});
 
 export default defineConfig({
-  site: 'https://eatjason.github.io',
-  base: 'https://github.com/eatjason/eatjason.github.io',
+  site: 'https://eatjason.github.io'
 });
