@@ -1,3 +1,5 @@
+npm run astro preferences disable devToolbar (disable toolbar)
+
 npm run start               (what did I use this command for?)
 
 npm create astro@latest     (used to create the project!)
@@ -7,5 +9,3 @@ npm install                 (for when I clone the repo to new place)
 npm run dev
 
 npm run build
-
-
