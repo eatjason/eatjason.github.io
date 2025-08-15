@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.12.4"
+    "astro": "^5.12.4",
+    "pixi.js": "^8.12.0"
   }
 }

@@ -6,10 +6,10 @@ function Terminal(id) {
     this.terminalContainer = document.getElementById(id);
     this.terminalContainer.setAttribute('tabindex', '0');    
     this.terminalContainer.innerHTML = `
-        <div id="terminal-output-area" data-astro-cid-axl53r3k></div>
-        <div id="terminal-input-line" data-astro-cid-axl53r3k>
-            <span id="terminal-prompt" data-astro-cid-axl53r3k>command: </span>
-            <input type="text" id="terminal-command-input" autocomplete="off" data-astro-cid-axl53r3k>
+        <div id="terminal-output-area"></div>
+        <div id="terminal-input-line">
+            <span id="terminal-prompt">command: </span>
+            <input type="text" id="terminal-command-input" autocomplete="off">
         </div>
     `;
 

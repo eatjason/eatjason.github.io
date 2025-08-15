@@ -1,0 +1,62 @@
+---
+
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Network</title>
+		<style is:global>
+			#text {
+				width: 960px;
+				height: 540px;
+			}
+
+			#terminal-container {
+				background-color: lightgray;
+				height: 270px;
+				width: 960px;
+				color: black;
+				font-family: 'Courier New', monospace;
+				overflow-y: scroll;
+			}
+
+			#terminal-container *{
+				font-family: 'Courier New', monospace;
+			}
+
+			#terminal-output-area {
+				white-space: pre-wrap; /* Preserve whitespace and wrap lines */
+			}
+
+			#terminal-input-line {
+				display: flex;
+			}
+
+			#terminal-prompt {
+				color: black;
+			}
+
+			#terminal-command-input {
+				flex-grow: 1;
+				background-color: transparent;
+				border: none;
+				color: black;
+				outline: none;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Bomberman Demo <a href="">Go Full Screen</a></h1>
+		<div id="canvas-container"></div>
+		<h1>Console</h1>
+		<div id="terminal-container"></div>
+		<h1>JSON Data</h1>
+		<textarea id="text" name="story" rows="5" cols="33">Thats texty...</textarea>
+
+		<script is:inline type="module" src="/network.js"></script>
+	</body>
+</html>
