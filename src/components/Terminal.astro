@@ -1,0 +1,53 @@
+---
+
+const { height, width } = Astro.props;
+const mystyle = `width: ${width}; height: ${height};`;
+
+---
+
+<style>
+    .terminal-container {
+        background-color: lightgray;
+        color: black;
+        font-family: 'Courier New', monospace;
+        overflow-y: scroll;
+    }
+
+    .terminal-container *{
+        font-family: 'Courier New', monospace;
+    }
+
+    .terminal-container .output-area {
+        white-space: pre-wrap; /* Preserve whitespace and wrap lines */
+    }
+
+    .terminal-container .input-line {
+        display: flex;
+    }
+
+    .terminal-container .prompt {
+        color: black;
+    }
+
+    .terminal-container .command-input {
+        flex-grow: 1;
+        background-color: transparent;
+        border: none;
+        color: black;
+        outline: none;
+    }
+</style>
+
+<div class="terminal-container" style={mystyle}>
+    <div class="output-area"></div>
+    <div class="input-line">
+        <span class="prompt">command: </span>
+        <input type="text" class="command-input" autocomplete="off">
+    </div>
+</div>
+
+<script>
+    import Terminal from '../scripts/terminal.js';
+    const terminals = document.querySelectorAll('.terminal-container');
+    terminals.forEach(terminal => { new Terminal(terminal); });
+</script>
