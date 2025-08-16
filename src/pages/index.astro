@@ -12,6 +12,51 @@ import Terminal from '../components/Terminal.astro';
 	</head>
 	<body>
 		<h1>Astro</h1>
+		<div id="canvas-container"></div>
 		<Terminal height="270px" width="960px" />
+		<script is:inline src="https://cdn.jsdelivr.net/npm/pixi.js@8.12.0/dist/pixi.min.js"></script>
+		<script>
+
+			console.log(PIXI);
+
+			/*import { PIXI } from '../scripts/main.js';
+			(async () =>
+			{
+				// Create a new application
+				const app = new PIXI.Application();
+
+				// Initialize the application
+				await app.init({ background: '#1099bb', width: 960, height: 540 });
+
+				// Append the application canvas to the document body
+				const el = document.getElementById('canvas-container');
+				el.appendChild(app.canvas);
+
+				// Load the bunny texture
+				const texture = await PIXI.Assets.load('https://pixijs.com/assets/bunny.png');
+
+				// Create a bunny Sprite
+				const bunny = new PIXI.Sprite(texture);
+
+				// Center the sprite's anchor point
+				bunny.anchor.set(0.5);
+
+				// Move the sprite to the center of the screen
+				bunny.x = app.screen.width / 2;
+				bunny.y = app.screen.height / 2;
+
+				app.stage.addChild(bunny);
+
+				// Listen for animate update
+				app.ticker.add((time) =>
+				{
+					// Just for fun, let's rotate mr rabbit a little.
+					// * Delta is 1 if running at 100% performance *
+					// * Creates frame-independent transformation *
+					bunny.rotation += 0.1 * time.deltaTime;
+				});
+			})();*/
+		
+		</script>
 	</body>
 </html>
